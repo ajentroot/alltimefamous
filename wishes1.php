@@ -20,5 +20,5 @@ $sql="insert into post (name,message) values ('$fname','$mesg')";
 }
 
 echo '<script language="javascript">alert"Thanks for Posting"</script>';
-echo '<script language="javascript">window.location = "index.html"</script>';
+echo '<script language="javascript">window.location = "index.php"</script>';
 ?>
