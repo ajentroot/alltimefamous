@@ -17,7 +17,7 @@ require("sendgrid-php/sendgrid-php.php");
 /  Fill in the variables below with your SendGrid
 /  username and password.
 ====================================================*/
-$sg_username = "rishabh1510";
+$sg_username = "azure_c0077ca594dc33995c009204d0507d1e@azure.com";
 $sg_password = "rishabh1510";
 
 $email=$_POST['emailer']
@@ -52,6 +52,6 @@ You will be updated with all the recent activities</p></td></tr>
     var_export($e);
 }
 echo '<script language="javascript">alert"Thanks for Subscribing!1"</script>';
-echo '<script language="javascript">window.location = "index.html"</script>';
+echo '<script language="javascript">window.location = "index.php"</script>';
 
 ?>
