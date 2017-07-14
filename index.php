@@ -115,7 +115,7 @@
 	<div class="topmenu">
 		<nav class="menu" style="float:left;">
 			<ul class="navigation">
-				<li><a href="#fitness" onclick="_gaq.push(['_trackPageview', 'fitness']);">fitness</a></li>
+				<li><a href="#aboutme" onclick="_gaq.push(['_trackPageview', 'aboutme']);">About Me</a></li>
 				<li><a href="#TOUR-DIARIES" onclick="_gaq.push(['_trackPageview', 'TOUR-DIARIES']);">TOUR-DIARIES</a></li>
 				<li><a href="#wheels" onclick="_gaq.push(['_trackPageview', 'wheels']);">wheels</a></li>
 				<li><a href="#journal" onclick="_gaq.push(['_trackPageview', 'journal']);"> journal</a></li>
@@ -139,47 +139,37 @@
     <div class="bg-box1a floatingBox" style="top:-300px">
       <p class="home-message">Welcome</p>
       <div class="cl"></div>
-      <p class="watchvideo-hp"><img src="images/recentnews-hp.jpg" /></p>
+      <p class="watchvideo-hp"></p>
       <div class="cl"></div>
-      <p class="textmatter-hp">Hi guys, Thanks for all your love and support. It means so much. </p>
+      <p class="textmatter-hp"><font color="red">Hi guys, Thanks for all your love and support. It means so much. </font></p>
       <div class="cl"></div>
-      <p class="playbtn-hp"><a href="#fitness"><img src="images/playbtn-hp.png" style="border:0;" ></a></p>
+      <p class="playbtn-hp"><a href="#aboutme"><img src="images/playbtn-hp.png" style="border:0;" ></a></p>
     </div>
     
   </div>
   
   
  
-    <div class="bg-box2" id="fitness">
+    <div class="bg-box2" id="aboutme">
     <div class="bg-box2a floatingBox">
       <p class="fitness-txt"><img src="images/fitness-txt.png" width="250" height="294"></p>
     </div>
     <div class="bg-box2b floatingBox">
       <div class="tips-box-holder">
-      <div class="tips-box"> <a href="fitnesstips.html" class="tips-content ajax1" onclick="_gaq.push(['_trackPageview', 'fitnesstips']);">
-        <p class="fit-tip-dot"><img src="images/fit-tip-dot.png" ></p>
-        <div class="cl"></div>
-        <span class="link-dash1">----</span><span class="link-dash2">----</span>
-        <div class="cl"></div>
-        <p class="fitness-links">Tips</p>
+      <div class="tips-box"> </p>
         </a> </div>
         
-      <div class="tips-box"> <a href="fitnesscenter.html" class="tips-content ajax2" onclick="_gaq.push(['_trackPageview', 'fitnesscenter']);">
+      <div class="tips-box"> <a href="http://alltimefamous-merchandise.azurewebsites.net" class="tips-content ajax2" onclick="_gaq.push(['_trackPageview', 'fitnesscenter']);">
         <p class="fit-tip-dot"><img src="images/fit-tip-dot.png" ></p>
         <div class="cl"></div>
         <span class="link-dash1">----</span><span class="link-dash2">----</span>
         <div class="cl"></div>
-        <p class="fitness-links">fitness<br>
-          center</p>
+        <p class="fitness-links">My Merchandise</p>
         </a> </div>
-        
-      <div class="tips-box" style="border:none;"> <a href="fitnesspics.html" class="tips-content ajax3" onclick="_gaq.push(['_trackPageview', 'fitnesspics']);">
-        <p class="fit-tip-dot"><img src="images/fit-tip-dot.png" ></p>
-        <div class="cl"></div>
-        <span class="link-dash1">----</span><span class="link-dash2">----</span>
-        <div class="cl"></div>
-        <p class="fitness-links">pics</p>
+		
+        <div class="tips-box"> </p>
         </a> </div>
+      
         </div>
     </div>
   </div>
@@ -199,41 +189,41 @@
           <div class="ca-item ca-item-1">
             <div class="ca-item-main">
               <div class="img-holder"><a href="Visakhapatnam.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
-			  <img src="images\travel\vizag.jpg" width="165" height="240"></a>
+			  <img src="images\travel\vizag\vizag.png" width="165" height="240"></a>
                 <h3>March-2016</h3>
-                <a href="Visakhapatnam.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Visakhapatnam</a></div>
+                <a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Visakhapatnam</a></div>
             </div>
           </div>
           <div class="ca-item ca-item-2">
             <div class="ca-item-main">
               <div class="img-holder"><a href="trivandrum.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
-			  <img src="images\travel\tvm.jpg" width="165" height="240"></a>
+			  <img src="images\travel\tvm\tvm.png" width="165" height="240"></a>
                 <h3>August-2016</h3>
-                <a href="trivandrum.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Trivandrum</a></div>
+                <a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Trivandrum</a></div>
             </div>
           </div>
           <div class="ca-item ca-item-3">
             <div class="ca-item-main">
               <div class="img-holder"><a href="kaniya.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
-			  <img src="images\travel\kaniya.jpg" width="165" height="240"></a>
+			  <img src="images\travel\kanya\kanya.png" width="165" height="240"></a>
                 <h3>September-2016</h3>
-                <a href="kaniya.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Kanyakumari</a></div>
+                <a class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Kanyakumari</a></div>
             </div>
           </div>
           <div class="ca-item ca-item-4">
             <div class="ca-item-main">
               <div class="img-holder"><a href="pune.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
-			  <img src="images\travel\pune.jpg" width="165" height="240"></a>
+			  <img src="images\travel\pune\pune.png" width="165" height="240"></a>
                 <h3>November-2016</h3>
-                <a href="pune.html?movie_id=63" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Pune</a></div>
+                <a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Pune</a></div>
             </div>
           </div>
           <div class="ca-item ca-item-5">
             <div class="ca-item-main">
               <div class="img-holder"><a href="hyd.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
-			  <img src="images\travel\hyd.jpg" width="165" height="240"></a>
+			  <img src="images\travel\hyd\hyd.png" width="165" height="240"></a>
                 <h3>December-2016</h3>
-                <a href="hyd.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Hyderabad</a></div>
+                <a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Hyderabad</a></div>
             </div>
           </div>
     
