@@ -188,7 +188,7 @@
         <div class="ca-wrapper">
           <div class="ca-item ca-item-1">
             <div class="ca-item-main">
-              <div class="img-holder"><a href="Visakhapatnam.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
+              <div class="img-holder"><a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
 			  <img src="images\travel\vizag\vizag.png" width="165" height="240"></a>
                 <h3>March-2016</h3>
                 <a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Visakhapatnam</a></div>
@@ -196,7 +196,7 @@
           </div>
           <div class="ca-item ca-item-2">
             <div class="ca-item-main">
-              <div class="img-holder"><a href="trivandrum.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
+              <div class="img-holder"><a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
 			  <img src="images\travel\tvm\tvm.png" width="165" height="240"></a>
                 <h3>August-2016</h3>
                 <a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Trivandrum</a></div>
@@ -204,7 +204,7 @@
           </div>
           <div class="ca-item ca-item-3">
             <div class="ca-item-main">
-              <div class="img-holder"><a href="kaniya.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
+              <div class="img-holder"><a class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
 			  <img src="images\travel\kanya\kanya.png" width="165" height="240"></a>
                 <h3>September-2016</h3>
                 <a class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Kanyakumari</a></div>
@@ -212,7 +212,7 @@
           </div>
           <div class="ca-item ca-item-4">
             <div class="ca-item-main">
-              <div class="img-holder"><a href="pune.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
+              <div class="img-holder"><a class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
 			  <img src="images\travel\pune\pune.png" width="165" height="240"></a>
                 <h3>November-2016</h3>
                 <a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Pune</a></div>
@@ -220,7 +220,7 @@
           </div>
           <div class="ca-item ca-item-5">
             <div class="ca-item-main">
-              <div class="img-holder"><a href="hyd.html" class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
+              <div class="img-holder"><a class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">
 			  <img src="images\travel\hyd\hyd.png" width="165" height="240"></a>
                 <h3>December-2016</h3>
                 <a  class="more ajax4" onclick="_gaq.push(['_trackPageview', 'travel']);">Hyderabad</a></div>
