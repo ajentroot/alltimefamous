@@ -141,7 +141,7 @@
       <div class="cl"></div>
       <p class="watchvideo-hp"><img src="images/recentnews-hp.jpg" /></p>
       <div class="cl"></div>
-      <p class="textmatter-hp">Hi guys, currently shooting for 'Parmanu: The Story of Pokhran' in Rajasthan. Hoping to release 8 December 2017. Thanks again for all your love and support. It means so much. You're the best :) </p>
+      <p class="textmatter-hp">Hi guys, Thanks for all your love and support. It means so much. </p>
       <div class="cl"></div>
       <p class="playbtn-hp"><a href="#fitness"><img src="images/playbtn-hp.png" style="border:0;" ></a></p>
     </div>
