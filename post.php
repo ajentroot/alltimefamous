@@ -22,6 +22,6 @@ $servername = "us-cdbr-azure-southcentral-f.cloudapp.net";
 	}
 	
     ?>
-
+	<a href="index.php">Back</a>
 
 </html>
