@@ -16,9 +16,9 @@ $servername = "us-cdbr-azure-southcentral-f.cloudapp.net";
 	
 	while($row = mysqli_fetch_assoc($result)) 
 	{
-        echo "Message :- " ." ".$row["message"];
+        echo "Message :- " ." ".$row["message"]."<br>";
 		echo "Posted by :- "." ".$row["name"];
-		
+		echo "<hr>";
 	}
 	
     ?>
